@@ -2,8 +2,8 @@
   "dev": {
     "awscloudformation": {
       "AuthRoleName": "amplify-test-dev-dfa8e-authRole",
-      "UnauthRoleArn": "arn:aws:iam::737978780512:role/amplify-test-dev-dfa8e-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::737978780512:role/amplify-test-dev-dfa8e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::737978780512:role/amplify-test-de-dfa8e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::737978780512:role/amplify-test-de-dfa8e-authRole",
       "Region": "us-east-1",
       "DeploymentBucketName": "amplify-test-dev-dfa8e-deployment",
       "UnauthRoleName": "amplify-test-dev-dfa8e-unauthRole",
