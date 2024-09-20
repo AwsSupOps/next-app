@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "test7062c2c1": {}
+        "test7062c2c1": {},
+        "userPoolGroups": {}
       }
     }
   }
