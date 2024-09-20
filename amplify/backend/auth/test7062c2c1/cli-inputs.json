@@ -38,7 +38,7 @@
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "default",
     "userPoolGroupList": [
-      //"test"
+    
     ],
     "serviceName": "Cognito",
     "usernameCaseSensitive": false,
