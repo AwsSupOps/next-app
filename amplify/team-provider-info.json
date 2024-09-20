@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextapp-dev-22047-authRole",
+      "UnauthRoleArn": "arn:aws:iam::737978780512:role/amplify-nextapp-dev-22047-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::737978780512:role/amplify-nextapp-dev-22047-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextapp-dev-22047-deployment",
+      "UnauthRoleName": "amplify-nextapp-dev-22047-unauthRole",
+      "StackName": "amplify-nextapp-dev-22047",
+      "StackId": "arn:aws:cloudformation:us-east-1:737978780512:stack/amplify-nextapp-dev-22047/83499470-7793-11ef-acd5-0ed72cd60f49",
+      "AmplifyAppId": "d35ughdnn7y18c"
+    },
+    "categories": {
+      "auth": {
+        "nextapp6ebe9552": {}
+      }
+    }
+  },
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextapp-master-866b7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::737978780512:role/amplify-nextapp-master-866b7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::737978780512:role/amplify-nextapp-master-866b7-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextapp-master-866b7-deployment",
+      "UnauthRoleName": "amplify-nextapp-master-866b7-unauthRole",
+      "StackName": "amplify-nextapp-master-866b7",
+      "StackId": "arn:aws:cloudformation:us-east-1:737978780512:stack/amplify-nextapp-master-866b7/3fd9d3c0-7794-11ef-a2e0-0e9a618e8613",
+      "AmplifyAppId": "d35ughdnn7y18c"
+    },
+    "categories": {
+      "auth": {
+        "nextapp6ebe9552": {}
+      }
+    }
+  }
+}
